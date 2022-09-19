@@ -1,0 +1,1 @@
+# Allure-Browser-Icon-Plugin
