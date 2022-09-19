@@ -1,0 +1,7 @@
+id: browser-icon-plugin
+name: Browser Icon Plugin
+description: This Plugin adds browser icons to test tree based on their tags
+jsFiles:
+  - index.js
+cssFiles:
+  - styles.css
